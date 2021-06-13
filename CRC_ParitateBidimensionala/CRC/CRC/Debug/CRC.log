@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(9,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(22,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(27,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(38,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(44,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(56,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(68,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(76,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\CRC\CRC\Source.cpp(89,28): warning C4018: '<': signed/unsigned mismatch
+  CRC.vcxproj -> C:\Users\Cata\Desktop\CRC\Debug\CRC.exe
